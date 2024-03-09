@@ -17,7 +17,8 @@ Task 3: Random Password Generator
 Task 4: Rock paper scissore game
   
   This Python program which allows you to play Rock paper Scissors with the computer.
-  It takes input as 1 - Rock
+  It takes input as: 
+                    1 - Rock
                     2 - Paper
                     3 - Scissors
 
