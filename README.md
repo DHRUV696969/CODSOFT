@@ -3,8 +3,7 @@ I had done all the program in python language.
 In this time period i completed 4 tasks!
 
 Task 1: Todo List Application
-
-  In this task i had made an application in python with a Graphical User Interface(GUI) for taking notes and reminders.
+In this task i had made an application in python with a Graphical User Interface(GUI) for taking notes and reminders.
   
 Task 2: Contactbook Manager
   This pragram works on command line interface for manageing contact numbers.
